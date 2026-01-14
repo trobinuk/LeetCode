@@ -1,1 +1,1 @@
-# Leetcode parctice
+# Leetcode practice
